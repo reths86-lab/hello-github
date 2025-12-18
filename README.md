@@ -6,3 +6,6 @@ I am learning how to:
 - Create repositories
 - Make commits
 - Use GitHub confidently
+## Learning Goals
+-Git bascics
+-Git workflow
